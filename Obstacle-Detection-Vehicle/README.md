@@ -1,0 +1,4 @@
+# Obstacle-Detection-Vehicle
+A vehicle with object detection and live data display.
+
+The vehicle has two DC motorized wheels along with a third support wheel. Object detection is completed with an ultrasonic sensor that rotates on a servo. Data is displayed on a HD44780 LCD. It has two modes that can be alternated with an IR remote sensor. One acts as adaptive cruise control, following an object in front of it and adjusting its speed to stay in a range. The other implements an algorithm to “find” an object and turn towards it.
